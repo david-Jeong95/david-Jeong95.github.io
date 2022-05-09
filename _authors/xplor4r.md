@@ -1,10 +1,10 @@
 ---
-name: Sujay Kundu
+name: david Jeong
 username: xplor4r
-bio: "Full Stack Web Developer, based in Bangalore, India"
-site: https://sujaykundu.com
+bio: "Backend Developer, based in, Korea"
+site: https://david-Jeong95.github.io
 avatar: xplor4r.png
-email: mail@sujaykundu.com
+email: wijeong@gmail.com
 social:
     - title: "github"
       url: "https://github.com/sujaykundu777"
