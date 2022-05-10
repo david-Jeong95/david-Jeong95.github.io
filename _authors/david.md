@@ -3,6 +3,7 @@ name: David Jeong
 username: david
 bio: "Hi I'm david, a software Engineer."
 avatar: johndoe.png
+site: http://david.com
 email: wijeong@gmail.com
 social:
   - title: "github"
