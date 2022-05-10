@@ -1,4 +1,4 @@
-title: david-Jeong
+title: david-Jeong(정현우)
 subtitle: david-Jeong's develop story
 description: >- # this means to ignore newlines until "baseurl:"
   Hi my name is david Jeong. I built this site record my develop story.
@@ -24,7 +24,7 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: David Jeong(정현우)
+author: david Jeong
 author_bio: Hi my name is david Jeong. I built this site record my develop story.
 author_email: "wijeong@gmail.com"
 author_location: Republic of Korea
